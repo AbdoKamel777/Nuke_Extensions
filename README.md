@@ -1,6 +1,6 @@
 # Nuke_Extensions
 
-These Tools work only with Python 3 and Nuke 15 and NOT  
+These Tools work only with Python 3 and Nuke 15 !! 
 
 
 installing :
