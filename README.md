@@ -4,7 +4,7 @@ These Tools work only with Python 3 and Nuke 15
 
 
 installing :
-just run the batch fil and it will copy the files into your .nuke folder and add the commands to the menu file 
+just run the batch file and it will copy the files into your .nuke folder and add the commands to the menu file 
 
 
 if you having issues in installing you can install it manually by creating file named "Nuke_Tools_Extensions "
